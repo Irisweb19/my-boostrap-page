@@ -1,0 +1,112 @@
+.firstpart{
+    background-color: rgb(87, 190, 190);
+    color: #fff;
+    width: 700spx;
+    height: 755px;
+    padding: 120px;
+}
+
+.header{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(187, 143, 71);
+}
+
+.header2{
+
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    color: gray;
+
+}
+.header3{
+    margin-top: 30px;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+/* font-size: 14px; */
+color: rgb(245, 248, 250);
+}
+
+.header4{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    /* -size: font14px; */
+    color: black;
+    margin-bottom: 50px;
+}
+.fonm-class{
+    margin-top: 40px;
+
+}
+
+.mybutton{
+    border-radius: 8px;
+    height: 50px;
+    background-color: grey;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #f5f5f5;
+    font-size: 20px;
+
+}
+.pass{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgb(36,37,37);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #ff1717
+
+    
+}
+.pass:hover{
+    border-radius: 8px;
+    background-color: whitesmoke;
+    transition: 0.4s;
+}
+input{
+
+    appearance: menulist-button;
+    background-color: rgb(70,90,126,0.4);
+    color: fieldtext !important;
+    writing-mode: horizontal-tb;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logic;
+    cursor: text;
+    margin: 0em;
+    padding: 1px 2px;
+    border: none !important
+
+
+}
+.secondpart{
+    background-color: rgb(30, 163, 163);
+    color: rgb(20, 14, 14);
+    width: 700spx;
+    height: 755px;
+    padding: 120px;
+    text-align: center;
+}
